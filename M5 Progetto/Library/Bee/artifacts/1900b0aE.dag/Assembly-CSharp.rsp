@@ -396,6 +396,8 @@
 "Assets/_Project/Scrpts/AutomaticDoor.cs"
 "Assets/_Project/Scrpts/Button.cs"
 "Assets/_Project/Scrpts/EnemyAI.cs"
+"Assets/_Project/Scrpts/GameManager.cs"
+"Assets/_Project/Scrpts/MenuManager.cs"
 "Assets/_Project/Scrpts/PlayerController.cs"
 "Assets/_Project/Scrpts/UI_TMP.cs"
 -langversion:9.0
