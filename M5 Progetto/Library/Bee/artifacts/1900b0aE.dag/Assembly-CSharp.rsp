@@ -393,13 +393,14 @@
 "Assets/TextMesh Pro/Examples & Extras/Scripts/VertexShakeB.cs"
 "Assets/TextMesh Pro/Examples & Extras/Scripts/VertexZoom.cs"
 "Assets/TextMesh Pro/Examples & Extras/Scripts/WarpTextExample.cs"
-"Assets/_Project/Scrpts/AutomaticDoor.cs"
-"Assets/_Project/Scrpts/Button.cs"
-"Assets/_Project/Scrpts/EnemyAI.cs"
-"Assets/_Project/Scrpts/GameManager.cs"
-"Assets/_Project/Scrpts/MenuManager.cs"
-"Assets/_Project/Scrpts/PlayerController.cs"
-"Assets/_Project/Scrpts/UI_TMP.cs"
+"Assets/_Project/Scrpts/DOORS/AutomaticDoor.cs"
+"Assets/_Project/Scrpts/DOORS/Button.cs"
+"Assets/_Project/Scrpts/DOORS/UI_TMP.cs"
+"Assets/_Project/Scrpts/Enemy/EnemyAI.cs"
+"Assets/_Project/Scrpts/Game/FinishTrigger.cs"
+"Assets/_Project/Scrpts/Game/GameManager.cs"
+"Assets/_Project/Scrpts/Menu/MenuManager.cs"
+"Assets/_Project/Scrpts/Player/PlayerController.cs"
 -langversion:9.0
 /deterministic
 /optimize+
